@@ -1,0 +1,136 @@
+Letras que você ja palpitou []
+A palavra é um(a) ANIMAL com 6 letras _ _ _ _ _ _ 
+Se quiser chutar a palavra, digite chutar
+________    
+|      |    
+|           
+|           
+|           
+Digite uma letra G
+
+Tem a letra G
+
+Letras que você ja palpitou ['G']
+A palavra é um(a) ANIMAL com 6 letras G_ _ _ _ _ 
+Se quiser chutar a palavra, digite chutar
+________    
+|      |    
+|           
+|           
+|           
+Digite uma letra I
+
+Tem a letra I
+
+Letras que você ja palpitou ['G', 'I']
+A palavra é um(a) ANIMAL com 6 letras GI_ _ _ _ 
+Se quiser chutar a palavra, digite chutar
+________    
+|      |    
+|           
+|           
+|           
+Digite uma letra E
+
+Errou, não tem a letra E
+Você ainda tem 5 tentativas
+
+Letras que você ja palpitou ['G', 'I', 'E']
+A palavra é um(a) ANIMAL com 6 letras GI_ _ _ _ 
+Se quiser chutar a palavra, digite chutar
+________    
+|      |    
+|      O    
+|           
+|           
+Digite uma letra L
+
+Errou, não tem a letra L
+Você ainda tem 4 tentativas
+
+Letras que você ja palpitou ['G', 'I', 'E', 'L']
+A palavra é um(a) ANIMAL com 6 letras GI_ _ _ _ 
+Se quiser chutar a palavra, digite chutar
+________    
+|      |    
+|      O    
+|      |    
+|           
+Digite uma letra H
+
+Errou, não tem a letra H
+Você ainda tem 3 tentativas
+
+Letras que você ja palpitou ['G', 'I', 'E', 'L', 'H']
+A palavra é um(a) ANIMAL com 6 letras GI_ _ _ _ 
+Se quiser chutar a palavra, digite chutar
+________    
+|      |    
+|      O    
+|     /|    
+|           
+Digite uma letra E
+
+Errou, não tem a letra E
+Você ainda tem 2 tentativas
+
+Letras que você ja palpitou ['G', 'I', 'E', 'L', 'H', 'E']
+A palavra é um(a) ANIMAL com 6 letras GI_ _ _ _ 
+Se quiser chutar a palavra, digite chutar
+________    
+|      |    
+|      O    
+|     /|\   
+|           
+Digite uma letra A
+
+Tem a letra A
+
+Letras que você ja palpitou ['G', 'I', 'E', 'L', 'H', 'E', 'A']
+A palavra é um(a) ANIMAL com 6 letras GI_ A_ A
+Se quiser chutar a palavra, digite chutar
+________    
+|      |    
+|      O    
+|     /|\   
+|           
+Digite uma letra A
+
+Tem a letra A
+
+Letras que você ja palpitou ['G', 'I', 'E', 'L', 'H', 'E', 'A', 'A']
+A palavra é um(a) ANIMAL com 6 letras GI_ A_ A
+Se quiser chutar a palavra, digite chutar
+________    
+|      |    
+|      O    
+|     /|\   
+|           
+Digite uma letra r
+
+Tem a letra R
+
+Letras que você ja palpitou ['G', 'I', 'E', 'L', 'H', 'E', 'A', 'A', 'R']
+A palavra é um(a) ANIMAL com 6 letras GIRA_ A
+Se quiser chutar a palavra, digite chutar
+________    
+|      |    
+|      O    
+|     /|\   
+|           
+Digite uma letra v
+
+Errou, não tem a letra V
+Você ainda tem 1 tentativas
+
+Letras que você ja palpitou ['G', 'I', 'E', 'L', 'H', 'E', 'A', 'A', 'R', 'V']
+A palavra é um(a) ANIMAL com 6 letras GIRA_ A
+Se quiser chutar a palavra, digite chutar
+________    
+|      |    
+|      O    
+|     /|\   
+|     /     
+Digite uma letra chutar
+Digite o seu chute girafa
+A palavra é GIRAFA Você acertou \O/
